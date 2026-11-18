@@ -31,10 +31,10 @@
       "price": 60
     },
     {
-      "name": "古早味紅茶",
-      "description": "熟悉的茶香與微甜滋味，冰涼解渴。",
+      "name": "milk tea",
+      "description": "熟悉的茶香與奶香，冰涼解渴。",
       "category": "飲品",
-      "price": 30
+      "price": 55
     }
   ]
 }
